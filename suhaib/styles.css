@@ -9,6 +9,7 @@ html
     background-color: burlywood;
     font-family:cursive;
     padding: 15px;
+    border-radius: 15px;
 }
 .col1:hover {
     background-color: bisque;
@@ -23,6 +24,7 @@ html
     background-color: burlywood;
     font-family:cursive;
     padding: 15px;
+    border-radius: 15px;
 }
 .col2:hover {
     background-color: bisque;
@@ -37,6 +39,7 @@ html
     background-color: burlywood;
     font-family:cursive;
     padding: 15px;
+    border-radius: 15px;
 }
     .col3:hover {
         background-color: bisque;
@@ -48,10 +51,51 @@ html
     display: inline-block;
     width:24%;
     text-align: center;
-    background-color: burlywood;
+    background-color:burlywood;
     font-family:cursive;
     padding: 15px;
+    border-radius: 15px;
 }
 .col4:hover {
     background-color: bisque;
+}
+.rule1{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    border-color: black;
+}
+.rule2{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    border-color: black;
+}
+.rule3{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    border-color: black;
+}
+.rule4{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    border-color: black;
 }
