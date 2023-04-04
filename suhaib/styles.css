@@ -1,0 +1,39 @@
+html
+.col1{
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    width:24%;
+    text-align: center;
+    background-color: burlywood;
+}
+.col2{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width:24%;
+    text-align: center;
+    background-color: burlywood;
+}
+.col3{
+    border: 1px;
+    border-color: black;
+    border-style:solid;
+    display: inline-block;
+    width:24%;
+    text-align: center;
+    background-color: burlywood;
+    height: 200px;
+    ;
+}
+.col4{
+    border: 1px;
+    border-color: black;
+    border-style:solid;
+    display: inline-block;
+    width:24%;
+    text-align: center;
+    background-color: burlywood;
+}
